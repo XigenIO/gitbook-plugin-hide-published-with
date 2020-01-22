@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-hide-published-with",
+  "name": "gitbook-plugin-hide-published-with-xigen",
   "version": "0.0.1",
   "description": "a plugin to remove link 'published with gitbook'",
   "main": "index.js",
